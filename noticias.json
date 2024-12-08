@@ -1,8 +1,34 @@
-{
-    "categoria": "deportes",
-    "titulo": "Título de la Noticia de Deportes",
-    "resumen": "Resumen breve de la noticia de deportes...",
-    "imagen": "imagen_deportes.jpg",
-    "enlace": "https://www.espn.com",
-    "fuente": "ESPN"
-}
+[
+    {
+        "categoria": "mundo",
+        "titulo": "Noticia Importante del Mundo",
+        "resumen": "Resumen breve de la noticia del mundo...",
+        "imagen": "imagen_mundo.jpg",
+        "enlace": "https://www.bbc.com",
+        "fuente": "BBC"
+    },
+    {
+        "categoria": "tecnologia",
+        "titulo": "Innovación en Tecnología",
+        "resumen": "Resumen breve sobre avances tecnológicos...",
+        "imagen": "imagen_tecnologia.jpg",
+        "enlace": "https://www.techcrunch.com",
+        "fuente": "TechCrunch"
+    },
+    {
+        "categoria": "deportes",
+        "titulo": "Partido Increíble en el Deporte",
+        "resumen": "Resumen breve del partido...",
+        "imagen": "imagen_deportes.jpg",
+        "enlace": "https://www.espn.com",
+        "fuente": "ESPN"
+    },
+    {
+        "categoria": "entretenimiento",
+        "titulo": "Nueva Película en Cartelera",
+        "resumen": "Resumen breve de la nueva película...",
+        "imagen": "imagen_entretenimiento.jpg",
+        "enlace": "https://www.hollywoodreporter.com",
+        "fuente": "Hollywood Reporter"
+    }
+]

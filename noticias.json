@@ -38,5 +38,13 @@
         "imagen": "imagen_entretenimiento.jpg",
         "enlace": "https://www.hollywoodreporter.com",
         "fuente": "Hollywood Reporter"
+    },
+    {
+        "categoria": "inicio",
+        "titulo": "Nueva Película en Cartelera",
+        "resumen": "Resumen breve de la nueva película...",
+        "imagen": "imagen_entretenimiento.jpg",
+        "enlace": "https://www.hollywoodreporter.com",
+        "fuente": "Hollywood Reporter"
     }
 ]

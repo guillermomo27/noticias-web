@@ -54,6 +54,14 @@
         "imagen": "imagen_entretenimiento.jpg",
         "enlace": "https://www.hollywoodreporter.com",
         "fuente": "Hollywood Reporter"
+    },
+    {
+        "categoria": "mundo",
+        "titulo": "Colapso de Assad: Oposición unida y apoyo externo perdido",
+        "resumen": "El régimen de Bashar al-Assad colapsó rápidamente debido al debilitamiento del ejército sirio, la retirada de apoyo militar clave de Irán, Rusia y Hezbolá, y la unificación estratégica de la oposición. Promesas de tolerancia y libertades por parte de los rebeldes fortalecieron su posición, provocando una caída tan abrupta como inesperada.",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/15f2/live/fb92fa90-b62a-11ef-aff0-072ce821b6ab.jpg.webp",
+        "enlace": "https://www.bbc.com/mundo/articles/ckg1ywxgx03o",
+        "fuente": "BBC"
     }
 
 ]

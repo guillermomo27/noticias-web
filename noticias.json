@@ -1,10 +1,10 @@
 [
     {
         "categoria": "mundo",
-        "titulo": "Noticia Importante del Mundo",
-        "resumen": "Resumen breve de la noticia del mundo dsfgrg...",
-        "imagen": "imagen_mundo.jpg",
-        "enlace": "https://www.bbc.com",
+        "titulo": "Asesinato expone ira contra aseguradoras de salud en EE.UU",
+        "resumen": "El asesinato del director de UnitedHealthcare, Brian Thompson, reveló la creciente ira hacia el sistema de salud privado en EE.UU., señalado por denegar tratamientos médicos. Protestas, amenazas y debates online subrayan la frustración ciudadana con aseguradoras. La violencia expone una crisis de costos y deuda médica que afecta a millones.",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/e485/live/62af9530-b48c-11ef-a0f2-fd81ae5962f4.jpg.webp",
+        "enlace": "https://www.bbc.com/mundo/articles/c1mrrxr5n2do",
         "fuente": "BBC"
     },
     {

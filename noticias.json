@@ -9,44 +9,11 @@
     },
     
     {
-        "categoria": "inicio",
-        "titulo": "Armas Fantasma y Asesinato: Nueva Amenaza en EE.UU",
-        "resumen": "Luigi Mangione, experto en programación, fue detenido como sospechoso del asesinato de Brian Thompson, director de UnitedHealth, en Nueva York. Mangione usó un -arma fantasma-, fabricada con piezas impresas en 3D, destacando la creciente amenaza de estas armas no registradas. El caso reaviva el debate sobre su regulación en EE.UU.",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b16b/live/27eaf890-b74d-11ef-b7b7-b1ffd78bb9b5.png.webp",
-        "enlace": "https://www.bbc.com/mundo/articles/clygd4w4p0jo",
-        "fuente": "BBC"
-    },
-    {
         "categoria": "mundo",
         "titulo": "Armas Fantasma y Asesinato: Nueva Amenaza en EE.UU",
         "resumen": "Luigi Mangione, experto en programación, fue detenido como sospechoso del asesinato de Brian Thompson, director de UnitedHealth, en Nueva York. Mangione usó un -arma fantasma-, fabricada con piezas impresas en 3D, destacando la creciente amenaza de estas armas no registradas. El caso reaviva el debate sobre su regulación en EE.UU.",
         "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b16b/live/27eaf890-b74d-11ef-b7b7-b1ffd78bb9b5.png.webp",
         "enlace": "https://www.bbc.com/mundo/articles/clygd4w4p0jo",
-        "fuente": "BBC"
-    },
-    
-    {
-        "categoria": "inicio",
-        "titulo": "Asesinato expone ira contra aseguradoras de salud en EE.UU",
-        "resumen": "El asesinato del director de UnitedHealthcare, Brian Thompson, reveló la creciente ira hacia el sistema de salud privado en EE.UU., señalado por denegar tratamientos médicos. Protestas, amenazas y debates online subrayan la frustración ciudadana con aseguradoras. La violencia expone una crisis de costos y deuda médica que afecta a millones.",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/e485/live/62af9530-b48c-11ef-a0f2-fd81ae5962f4.jpg.webp",
-        "enlace": "https://www.bbc.com/mundo/articles/c1mrrxr5n2do",
-        "fuente": "BBC"
-    },
-    {
-        "categoria": "inicio",
-        "titulo": "Productividad Japonesa: Seis Claves para Transformar tu Vida",
-        "resumen": "Descubre seis técnicas japonesas para potenciar tu productividad y vencer la pereza: encuentra tu propósito con Ikigai, mejora constantemente con Kaizen, organiza tu tiempo con la técnica Pomodoro, controla tus hábitos alimenticios con Hara Hachi Bu, adopta una -mente de principiante- con Shoshin, y abraza la imperfección con Wabi-Sabi.",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/d292/live/ad265d30-b174-11ef-aff0-072ce821b6ab.jpg.webp",
-        "enlace": "https://www.bbc.com/mundo/articles/cy7k8kyjlr5o",
-        "fuente": "BBC"
-    },
-    {
-        "categoria": "inicio",
-        "titulo": "Colapso de Assad: Oposición unida y apoyo externo perdido",
-        "resumen": "El régimen de Bashar al-Assad colapsó rápidamente debido al debilitamiento del ejército sirio, la retirada de apoyo militar clave de Irán, Rusia y Hezbolá, y la unificación estratégica de la oposición. Promesas de tolerancia y libertades por parte de los rebeldes fortalecieron su posición, provocando una caída tan abrupta como inesperada.",
-        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/15f2/live/fb92fa90-b62a-11ef-aff0-072ce821b6ab.jpg.webp",
-        "enlace": "https://www.bbc.com/mundo/articles/ckg1ywxgx03o",
         "fuente": "BBC"
     },
     {

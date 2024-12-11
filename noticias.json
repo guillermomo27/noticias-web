@@ -7,13 +7,22 @@
         "enlace": "",
         "fuente": ""
     },
+    
     {
-        "categoria": "",
-        "titulo": "",
-        "resumen": "",
-        "imagen": "",
-        "enlace": "",
-        "fuente": ""
+        "categoria": "inicio",
+        "titulo": "Armas Fantasma y Asesinato: Nueva Amenaza en EE.UU",
+        "resumen": "Luigi Mangione, experto en programación, fue detenido como sospechoso del asesinato de Brian Thompson, director de UnitedHealth, en Nueva York. Mangione usó un -arma fantasma-, fabricada con piezas impresas en 3D, destacando la creciente amenaza de estas armas no registradas. El caso reaviva el debate sobre su regulación en EE.UU.",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b16b/live/27eaf890-b74d-11ef-b7b7-b1ffd78bb9b5.png.webp",
+        "enlace": "https://www.bbc.com/mundo/articles/clygd4w4p0jo",
+        "fuente": "BBC"
+    },
+    {
+        "categoria": "mundo",
+        "titulo": "Armas Fantasma y Asesinato: Nueva Amenaza en EE.UU",
+        "resumen": "Luigi Mangione, experto en programación, fue detenido como sospechoso del asesinato de Brian Thompson, director de UnitedHealth, en Nueva York. Mangione usó un -arma fantasma-, fabricada con piezas impresas en 3D, destacando la creciente amenaza de estas armas no registradas. El caso reaviva el debate sobre su regulación en EE.UU.",
+        "imagen": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/b16b/live/27eaf890-b74d-11ef-b7b7-b1ffd78bb9b5.png.webp",
+        "enlace": "https://www.bbc.com/mundo/articles/clygd4w4p0jo",
+        "fuente": "BBC"
     },
     
     {
